@@ -1,0 +1,34 @@
+[
+  {
+    "Nombre": "Matrix",
+    "FechaDeLanzamiento": 1993,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 60
+  },
+  {
+    "Nombre": "Encanto",
+    "FechaDeLanzamiento": 2021,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 102
+  },
+  {
+    "Nombre": "El gato con botas",
+    "FechaDeLanzamiento": 1961,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 90
+  },
+  {
+    "Nombre": "La nueva Cenicienta",
+    "FechaDeLanzamiento": 1964,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 92
+  }
+]

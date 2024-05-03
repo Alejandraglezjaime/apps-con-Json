@@ -1,0 +1,3 @@
+# APLICACIONES CON API Y JSON
+
+Este repositorio cuenta con dos carpetas, en la carpeta _screanMatch_ le solicita al usuario que ingrese el nombre de la película a buscar, esta es una película general,  retorna los datos en formato JSon; lo mismo ocurre en la carpeta de _Star Wars_ solo que esta aplicación toma los datos de una API de fanaticos de la saga donde nos muestra de la misma forma su información en formato Json, estos datos son guardados en un archivo creado en ese momento _**.json**_ 
